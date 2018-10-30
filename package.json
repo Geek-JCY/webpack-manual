@@ -2,7 +2,7 @@
   "name": "webpack-manual",
   "version": "1.0.0",
   "description": "关于webpack的一些探究",
-  "main": "main.js",
+  "main": "./src/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
