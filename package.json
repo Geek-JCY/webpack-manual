@@ -1,0 +1,19 @@
+{
+  "name": "webpack-manual",
+  "version": "1.0.0",
+  "description": "关于webpack的一些探究",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geek-JCY/webpack-manual.git"
+  },
+  "author": "jcy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geek-JCY/webpack-manual/issues"
+  },
+  "homepage": "https://github.com/Geek-JCY/webpack-manual#readme"
+}
